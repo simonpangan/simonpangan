@@ -1,6 +1,8 @@
+![Full Stack Developer](https://media.licdn.com/dms/image/D5616AQEbPVdd61qDlQ/profile-displaybackgroundimage-shrink_350_1400/0/1691113154322?e=1697068800&v=beta&t=ktEDSm3zdcbU047RwRVa8Gxh0iwHMrQbPjfdyUAioiY)
+
 ### Hi there 👋, I'm Simon Pangan
 #### Full Stack Developer
-![Full Stack Developer](https://media.licdn.com/dms/image/D5616AQEbPVdd61qDlQ/profile-displaybackgroundimage-shrink_350_1400/0/1691113154322?e=1697068800&v=beta&t=ktEDSm3zdcbU047RwRVa8Gxh0iwHMrQbPjfdyUAioiY)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
