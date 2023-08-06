@@ -1,4 +1,4 @@
-<a href="https://simonpangan.netlify.app/" targer="_blank">
+<a href="https://simonpangan.netlify.app/" target="_blank">
   <img alt="Simon Pangan banner" 
   src="https://media.licdn.com/dms/image/D5616AQEbPVdd61qDlQ/profile-displaybackgroundimage-shrink_350_1400/0/1691113154322?e=1697068800&v=beta&t=ktEDSm3zdcbU047RwRVa8Gxh0iwHMrQbPjfdyUAioiY" 
   />
