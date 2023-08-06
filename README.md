@@ -9,8 +9,8 @@
 ![Full Stack Developer](https://media.licdn.com/dms/image/D5616AQEbPVdd61qDlQ/profile-displaybackgroundimage-shrink_350_1400/0/1691113154322?e=1697068800&v=beta&t=ktEDSm3zdcbU047RwRVa8Gxh0iwHMrQbPjfdyUAioiY)
 -->
 
-# Adrian Twarog
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+# About Me
+I'm Simon from Philippines, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
 ## Skills and Experience
 * ⚛ React
@@ -40,15 +40,9 @@ I'm Adrian from Australia, and I do content on Design and Development. I really 
 | ------------- | ------------- |
 -->
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
-
-
 <a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Simon Pangan | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://www.linkedin.com/in/simonpangan/">
+  <img align="right" alt="Simon Pangan | CodeSandbox" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
