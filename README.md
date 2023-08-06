@@ -10,7 +10,7 @@
 -->
 
 # About Me
-I'm Simon from Philippines, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+Hello there! 👋 I'm Simon Pangan, a recent web development graduate with a strong passion for Laravel, Vue.js, and MySQL. Since 2019, I've been honing my skills with these technologies, starting with Laravel version 6, Vue version 2, and MySQL version 8. My portfolio showcases noteworthy projects like CharitAble, which won the Best Capstone Award, and Inflow. As a freelance developer, I take pleasure in collaborating with students from different schools, helping them create their thesis and final projects. I prioritize client privacy and don't list freelance projects in the portfolio for confidentiality reasons. Beyond web development, I have an interest in React and plan to explore the .NET framework in the future. Outside of coding, I find joy in watching basketball and table tennis, supporting OKC Thunder and San Miguel Beermen. Table tennis has a special place in my heart, with Jun Mizutani being a great inspiration. When I'm not working or indulging in sports, I unwind by playing COD Warzone.
 
 ## Skills and Experience
 * ⚛ React, Laravel, Vue, Mysql
