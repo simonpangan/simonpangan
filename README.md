@@ -1,5 +1,5 @@
-<a href="https://anuraghazra.github.io">
-  <img alt="Hello, I'm Anurag. I do open source!" 
+<a href="https://simonpangan.netlify.app/">
+  <img alt="Simon Pangan banner" 
   src="https://media.licdn.com/dms/image/D5616AQEbPVdd61qDlQ/profile-displaybackgroundimage-shrink_350_1400/0/1691113154322?e=1697068800&v=beta&t=ktEDSm3zdcbU047RwRVa8Gxh0iwHMrQbPjfdyUAioiY" 
   />
 </a>
