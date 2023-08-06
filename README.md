@@ -1,5 +1,5 @@
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
 
 ![Full Stack Developer](https://media.licdn.com/dms/image/D5616AQEbPVdd61qDlQ/profile-displaybackgroundimage-shrink_350_1400/0/1691113154322?e=1697068800&v=beta&t=ktEDSm3zdcbU047RwRVa8Gxh0iwHMrQbPjfdyUAioiY)
 
@@ -42,8 +42,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![Profile views](https://gpvc.arturio.dev/simonpangan)  
 
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
 <br />
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
@@ -80,6 +78,10 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 ## Blog posts
 * [CODEOWNERS-driven file organization](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;codeowners-driven-organization&#x2F;)
 -->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
