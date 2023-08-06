@@ -13,7 +13,7 @@
 I'm Simon from Philippines, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
 ## Skills and Experience
-* 🛠 Laravel, Vue, Mysql
+* ⚛ Laravel, Vue, Mysql
 * 💻 HTML, CSS, JS, PHP, C#
   
 ## Example of Works
