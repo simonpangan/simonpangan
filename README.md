@@ -37,7 +37,6 @@ I'm Simon from Philippines, and I do content on Design and Development. I really
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simonpangan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Simon Pangan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonpangan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
--->
 
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Simon Pangan | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -45,3 +44,4 @@ I'm Simon from Philippines, and I do content on Design and Development. I really
 <a href="https://www.linkedin.com/in/simonpangan/">
   <img align="right" alt="Simon Pangan | CodeSandbox" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
+-->
