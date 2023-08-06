@@ -16,10 +16,7 @@ I'm Adrian from Australia, and I do content on Design and Development. I really 
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/simonpangan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/simonpangan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://simonpangan.netlify.app/)  
-
+  
 <br />
 
 ## Example of Works
