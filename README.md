@@ -17,8 +17,6 @@ I'm Adrian from Australia, and I do content on Design and Development. I really 
 * 📱 React Native
 * 💻 HTML, CSS, JS
   
-<br />
-
 ## Example of Works
 
 <a href="https://simonpangan.netlify.app/projects/" target="_blank">Projects</a>
