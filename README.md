@@ -65,10 +65,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
+<!--
 #### Top Repositories
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
@@ -78,7 +76,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 <br />
 <br />
-<!--
+
 ## Blog posts
 * [CODEOWNERS-driven file organization](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;codeowners-driven-organization&#x2F;)
 -->
