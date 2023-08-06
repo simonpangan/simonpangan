@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" 
-    src="https://media.licdn.com/dms/image/D5616AQEbPVdd61qDlQ/profile-displaybackgroundimage-shrink_350_1400/0/1691113154322?e=1697068800&v=beta&t=ktEDSm3zdcbU047RwRVa8Gxh0iwHMrQbPjfdyUAioiY" />
-    <a/>
-</p>
+<a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" 
+src="https://media.licdn.com/dms/image/D5616AQEbPVdd61qDlQ/profile-displaybackgroundimage-shrink_350_1400/0/1691113154322?e=1697068800&v=beta&t=ktEDSm3zdcbU047RwRVa8Gxh0iwHMrQbPjfdyUAioiY" 
+/>
 
 
 <!--
