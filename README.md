@@ -59,7 +59,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 ## Example of Works
 
-<a href="https://simonpangan.netlify.app/projects/">Projects</a>
+<a href="https://simonpangan.netlify.app/projects/" target="_blank">Projects</a>
 
 <!--
 #### Top Repositories
