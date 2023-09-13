@@ -1,6 +1,6 @@
 <a href="https://simonpangan.netlify.app/" target="_blank">
   <img alt="Simon Pangan banner" 
-  src="https://media.licdn.com/dms/image/D5616AQEbPVdd61qDlQ/profile-displaybackgroundimage-shrink_350_1400/0/1691113154322?e=1697068800&v=beta&t=ktEDSm3zdcbU047RwRVa8Gxh0iwHMrQbPjfdyUAioiY" 
+  src="https://media.licdn.com/dms/image/D5616AQHbZF27mqfDgg/profile-displaybackgroundimage-shrink_350_1400/0/1693217004925?e=1700092800&v=beta&t=xYky7R7_VGB7xeAkXbQmJQb_Ic9i4AhMTsJkq90Z4oU" 
   />
 </a>
 
